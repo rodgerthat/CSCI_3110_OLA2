@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+#except this fellah
+!.gitignore
+!ola2.cpp
+!point.dat
+!Roster.h
+!Roster.cpp
+!Student.h
+!Student.cpp
